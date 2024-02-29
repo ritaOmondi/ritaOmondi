@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritaOmondi
-- 👀 I’m interested in being a database manager
+- 👀 I’m interested in being a database manager.
 - 🌱 I’m currently learning . Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cherylritaomondi@gmail.com
